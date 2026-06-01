@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://berlinwibi.github.io/docs-mbz0z1/sitemap.xml
